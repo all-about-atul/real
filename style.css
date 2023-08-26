@@ -1,0 +1,14 @@
+body{
+    background-color: #dadada;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1,h2{
+    color: burlywood;
+    font-size: 9vh;
+}
+
+h1,h2:hover{
+    color: crimson;
+    cursor: pointer;
+}
